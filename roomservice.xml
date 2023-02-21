@@ -2,8 +2,8 @@
 <manifest>
 
   <!--Device Tree-->
-  <project name="xperiaossdev/device_sony_pdx215" path="device/sony/pdx215" revision="13" remote="github"/>
-  <project name="xperiaossdev/device_sony_sagami" path="device/sony/sagami" revision="13" remote="github"/>
+  <project name="xperiaossdev/device_sony_pdx215" path="device/sony/pdx215" revision="13-derp" remote="github"/>
+  <project name="xperiaossdev/device_sony_sagami" path="device/sony/sagami" revision="13-derp" remote="github"/>
 
   <!-- Vendor -->
   <project name="xperiaossdev/vendor_sony_sagami" path="vendor/sony/sagami" revision="13" remote="github"/>
