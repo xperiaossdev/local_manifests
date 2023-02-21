@@ -6,8 +6,7 @@
   <project name="xperiaossdev/device_sony_sagami" path="device/sony/sagami" revision="13" remote="github"/>
 
   <!-- Vendor -->
-  <project name="xperiaossdev/vendor_sony_pdx215" path="vendor/sony/pdx215" revision="12" remote="github"/>
-  <project name="xperiaossdev/vendor_sony_sagami" path="vendor/sony/sagami" revision="12" remote="github"/>
+  <project name="xperiaossdev/vendor_sony_sagami" path="vendor/sony/sagami" revision="13" remote="github"/>
   
   <!-- Kernel -->
   <project name="xperiaossdev/kernel_sony_sagami" path="kernel/sony/sagami" revision="13-krispy" remote="github"/>
