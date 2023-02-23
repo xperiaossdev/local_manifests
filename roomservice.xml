@@ -2,16 +2,16 @@
 <manifest>
 
   <!--Device Tree-->
-  <project name="xperiaossdev/device_sony_pdx223" path="device/sony/pdx223" revision="13" remote="github"/>
-  <project name="xperiaossdev/device_sony_nagara" path="device/sony/nagara" revision="13" remote="github"/>
+  <project name="xperiaossdev/device_sony_pdx223" path="device/sony/pdx223" revision="Base" remote="github"/>
+  <project name="xperiaossdev/device_sony_nagara" path="device/sony/nagara" revision="Base" remote="github"/>
 
   <!-- Vendor -->
-  <project name="xperiaossdev/vendor_sony_nagara" path="vendor/sony/nagara" revision="12" remote="github"/>
+  <project name="xperiaossdev/vendor_sony_nagara" path="vendor/sony/nagara" revision="13" remote="github"/>
   
   <!-- Kernel -->
-  <project name="xperiaossdev/kernel_sony_nagara" path="kernel/sony/nagara" revision="12-krispy" remote="github"/>
+  <project name="xperiaossdev/kernel_sony_nagara" path="kernel/sony/nagara" revision="Sokudo" remote="github"/>
 
   <!-- Nagara Extra -->
-  <project name="xperiaossdev/sony_extra-nagara" path="vendor/sony/extra-nagara" revision="stable" remote="github"/>
+  <project name="xperiaossdev/sony_extra-nagara" path="vendor/sony/extra-nagara" revision="Stable" remote="github"/>
 
 </manifest>
