@@ -2,16 +2,16 @@
 <manifest>
 
   <!--Device Tree-->
-  <project name="xperiaossdev/device_sony_pdx215" path="device/sony/pdx215" revision="13" remote="github"/>
-  <project name="xperiaossdev/device_sony_sagami" path="device/sony/sagami" revision="13" remote="github"/>
+  <project name="xperiaossdev/device_sony_pdx215" path="device/sony/pdx215" revision="Base" remote="github"/>
+  <project name="xperiaossdev/device_sony_sagami" path="device/sony/sagami" revision="Base" remote="github"/>
 
   <!-- Vendor -->
   <project name="xperiaossdev/vendor_sony_sagami" path="vendor/sony/sagami" revision="13" remote="github"/>
   
   <!-- Kernel -->
-  <project name="xperiaossdev/kernel_sony_sagami" path="kernel/sony/sagami" revision="13-krispy" remote="github"/>
+  <project name="xperiaossdev/kernel_sony_sagami" path="kernel/sony/sagami" revision="Krispy" remote="github"/>
 
   <!-- Sagami Extra -->
-  <project name="xperiaossdev/sony_extra-sagami" path="vendor/sony/extra-sagami" revision="stable" remote="github"/>
+  <project name="xperiaossdev/sony_extra-sagami" path="vendor/sony/extra-sagami" revision="Stable" remote="github"/>
 
 </manifest>
